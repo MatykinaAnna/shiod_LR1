@@ -12,6 +12,6 @@
 
 <h3>Основные команды git</h3>
 <div>
-  <span style="font-weight: bold">git add</span>
+  <span style="fontWeight: bold">git add</span>
   <span>Команда git add добавляет содержимое рабочего каталога в индекс (staging area) для последующего коммита. По умолчанию git commit использует лишь этот индекс, так что вы можете использовать git add для сборки слепка вашего следующего коммита.</span>
 </div>
